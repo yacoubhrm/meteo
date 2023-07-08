@@ -1,0 +1,14 @@
+{
+    "name": "Meteo App",
+    "icons": [
+        {
+          "src": "https://www.camping-soleillevant.com/wp-content/themes/plune/assets/img/Je-decouvre.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ],
+      "start_url": "./sw.js",
+      "display": "standalone",
+      "theme_color": "#1f53ba",
+      "background_color": "#25bfd8"
+}

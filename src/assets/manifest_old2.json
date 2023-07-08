@@ -1,0 +1,14 @@
+{
+    "name": "Meteo App",
+    "icons": [
+        {
+          "src": "./assets/logo.png",
+          "sizes": "512*512",
+          "type": "image/png"
+        }
+      ],
+      "start_url": "./scr",
+      "display": "standalone",
+      "theme_color": "#B12A34",
+      "background_color": "#B12A34"
+}
